@@ -21,11 +21,11 @@
   <distributionManagement>
       <snapshotRepository>
         <id>nexus-snapshots</id>
-        <url>http://52.87.232.48:8081//repository/maven-snapshots/</url>
+        <url>http://107.21.130.9:8081/repository/maven-snapshots/</url>
       </snapshotRepository>
       <repository>
         <id>nexus-releases</id>
-        <url>http://52.87.232.48:8081//repository/maven-releases/</url>
+        <url>http://107.21.130.9:8081/repository/maven-releases/</url>
       </repository>
     </distributionManagement>
 </project>
